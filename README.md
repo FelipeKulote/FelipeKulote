@@ -1,4 +1,11 @@
-### Hi there 👋
+### Olá, seja bem vindo!!
+
+##
+Eu me chamo Felipe Augusto, tenho 28 anos e moro em Barbacena - MG <br>
+
+- Atualmente trabalho como assistente administrativo; <br>
+- Faço curso para Desenvolvedor web FulStack na <a href="https://www.blueedtechcursos.com">BlueEdtech</a>;
+
 <div>
 <a href="https://github.com/FelipeKulote">
 
@@ -22,7 +29,7 @@
 <a href="mailto:lipe_augustobq@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
  
-![Snake animation](https://github.com/FelipeKulote/FelipeKulote/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/FelipeKulote/FelipeKulote/blob/output/github-contribution-grid-snake.svg)
 
 
 

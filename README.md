@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo!!
 
 ##
-Eu me chamo Felipe Augusto, tenho 28 anos e moro em Barbacena - MG <br>
+Eu me chamo Felipe Augusto, tenho 29 anos e moro em Barbacena - MG <br>
 
 - Atualmente trabalho como assistente administrativo; <br>
 - Faço curso para Desenvolvedor web FulStack na <a href="https://www.blueedtechcursos.com">BlueEdtech</a>;

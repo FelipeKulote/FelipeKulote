@@ -3,8 +3,7 @@
 ##
 Eu me chamo Felipe Augusto, tenho 29 anos e moro em Barbacena - MG <br>
 
-- Atualmente trabalho como assistente administrativo; <br>
-- Faço curso para Desenvolvedor web FulStack na <a href="https://www.blueedtechcursos.com">BlueEdtech</a>;
+- Formado no curso de Desenvolvimento web FulStack na <a href="https://www.blueedtechcursos.com">BlueEdtech</a>;
 
 <div>
 <a href="https://github.com/FelipeKulote">
